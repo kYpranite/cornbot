@@ -1,5 +1,5 @@
 # cornbot
-###A simple stock option notification bot. Takes unusual option behavior from unusualwhales.com and tracks it after inputting it to a local database
+### A simple stock option notification bot. Takes unusual option behavior from unusualwhales.com and tracks it after inputting it to a local database
 
 NOT FUNCTIONAL RIGHT NOW, UNUSUAL WHALES HAS UPDATED THEIR WEBSITE AND THE WEBSCRAPER IS NO LONGER FUNCTIONAL. 
 
