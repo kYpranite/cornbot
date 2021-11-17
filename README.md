@@ -10,3 +10,5 @@ yfinance also does not provide all option data. Option data is occassionally mis
 Username and Password inputs can be found in webscraper.py
 
 the backup.db file in extra is an empty database file as a backup. To replace, rename backup.db to options.db and move it to the "Scripts" folder.
+
+The Chromedriver may also be outdated. A newer release can be found at https://chromedriver.chromium.org/downloads
