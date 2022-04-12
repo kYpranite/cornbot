@@ -11,9 +11,6 @@ from playsound import playsound
 
 
 if __name__ == '__main__':
-    # x = contract.Option(127.00, "AAPL", "put", 1.09, "2020-12-31", "https://google.com")
-    # y = contract.Option(187.00, "IWM", "put", 1.91, "2020-12-18", "https://booble.com")
-    # z = contract.Option(670.00, "TSLA", "put", 174, "2020-12-04", "https://dooble.com")
     website = ""
     counter = 0
     webscraping.init()
